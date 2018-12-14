@@ -116,4 +116,4 @@ https://github.com/iiiedu/AIEN03/
           [程俊壹](https://www.cakeresume.com/s--_qMxdMp0p--a6szqvdgwug--/joey3118245)、
           [張仕嘉](https://www.cakeresume.com/scott-4f1ffa)、
           [楊沐穎](https://www.cakeresume.com/remy-yang)、
-          林建帆、
+          林建帆

@@ -16,9 +16,7 @@ https://github.com/iiiedu/AIEN03/
         * [Nico Lai](mailto:wl9208@iii.org.tw) (02)6631-6666 #6593
 
 * 各組資訊
-    * 請點擊各組專題名稱之連結查看專題介紹
     * 點擊個別成員查看個人介紹
-
 
 * 第一組
   * 分類：財經
@@ -33,18 +31,27 @@ https://github.com/iiiedu/AIEN03/
       * 使用深度學習提供客戶人臉與情緒辨識，商品標價照相換匯計算，大廳保安警示，
       * 股票K線型態辨認，基金投資建議，台指期貨波動幅度推論等等服務功能。
   * 成員：[鄭耀暉]()、
-          [許素菲]()、
-          [嚴振哲]()、
+          [許素菲](https://www.cakeresume.com/sophiah)、
+          [嚴振哲](https://www.cakeresume.com/a96385250)、
           [林佳蓉]()、
-          [謝振岡]()
+          [謝振岡](https://www.cakeresume.com/aaron-ai)
 * 第二組
   * 分類：交通
-  * 名稱：[AI Moto]()
-  * 成員：[潘垣廷]()、
-          [曾中平]()、
-          [党榮安]()、
-          [張紀偉]()、
-          [闕立倫]()、
+  * 名稱：AI Moto
+  * 簡介：
+      * 使用課程所學到的程式語言，完成線上租車的流程：
+         1. 線上租車：Chatbot
+         2. 網頁：HTML、Django
+         3. 資料庫：MySQL
+      * 訓練AI讓無人車達成運行，閃避障礙，辨識號誌的成果：
+         1. 無人車：DuckieTown、Donkey Car
+         2. 辨識號誌：Object recognition
+         3. 人臉辨識：Face recognition
+  * 成員：[潘垣廷](https://www.cakeresume.com/stormpan)、
+          [曾中平](https://www.cakeresume.com/1053c045)、
+          [党榮安](https://www.cakeresume.com/stevedang)、
+          [張紀偉](https://www.cakeresume.com/s--6SqrwWB3LCPuXokBOpvfhQ--/william790206-fa2e3f)、
+          [闕立倫](https://www.cakeresume.com/chueh)、
           [黃俊翔]()
 
 * 第三組

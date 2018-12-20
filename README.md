@@ -18,6 +18,8 @@ https://github.com/iiiedu/AIEN03/
 * 各組資訊
     * 點擊個別成員查看個人介紹
 
+![FinTank](https://i.ibb.co/PzhqHnn/2018-12-20-2-53-24.png "FinTank")
+
 * 第一組
   * 分類：財經
   * 名稱：FinTank

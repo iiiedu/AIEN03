@@ -35,6 +35,7 @@ https://github.com/iiiedu/AIEN03/
           [嚴振哲](https://www.cakeresume.com/a96385250)、
           林佳蓉、
           [謝振岡](https://www.cakeresume.com/aaron-ai)
+          
 ![FinTank](https://i.ibb.co/PzhqHnn/2018-12-20-2-53-24.png "FinTank")
 
 * 第二組
@@ -103,6 +104,7 @@ https://github.com/iiiedu/AIEN03/
           [毛鼎言](https://www.cakeresume.com/maotingyang)、
           陳惠龍、
           [許哲偉](https://www.cakeresume.com/s--5n_RKSMStBzikinsF6GmnA--/tonyhsu89233918)
+          
 ![RoboCafé](https://i.ibb.co/yyqBqZ3/2018-12-20-3-04-29.png "RoboCafé")
   
 * 第五組

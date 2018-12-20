@@ -66,7 +66,7 @@ https://github.com/iiiedu/AIEN03/
          5. 使用深度學習辨識手語
          6. 使用深度學習辨識皮膚疾病
          
-  * 成員：胡翔、
+  * 成員： [胡翔](https://www.cakeresume.com/s--ztZbX8y1TCaZf742MnswZw--/shawn-hu)、
           [粘仁豪](https://www.cakeresume.com/nien81527)、
           [郭書宇](https://www.cakeresume.com/sue-k)、
           游羽瑄、

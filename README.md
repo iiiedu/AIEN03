@@ -126,3 +126,7 @@ https://github.com/iiiedu/AIEN03/
           [張仕嘉](https://www.cakeresume.com/scott-4f1ffa)、
           [楊沐穎](https://www.cakeresume.com/remy-yang)、
           [林建帆](https://www.cakeresume.com/ryan-lin-1d93ce)
+
+ 
+![Herbie](https://i.ibb.co/vVSYhGk/2018-12-24-2-40-34.png "Herbie")
+![Herbie](https://i.ibb.co/S7LfHG1/2018-12-24-2-40-44.png "Herbie")

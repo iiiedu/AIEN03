@@ -15,9 +15,6 @@ https://github.com/iiiedu/AIEN03/
         * [Ryan Chung](mailto:ryan@iii.org.tw) (02)6631-6666 #6555、0939-659-976
         * [Nico Lai](mailto:wl9208@iii.org.tw) (02)6631-6666 #6593
 
-* 各組資訊
-    * 點擊個別成員查看個人介紹
-
 * 第一組
   * 分類：財經
   * 名稱：FinTank

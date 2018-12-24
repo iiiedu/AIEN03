@@ -57,6 +57,8 @@ https://github.com/iiiedu/AIEN03/
           [闕立倫](https://www.cakeresume.com/chueh)、
           黃俊翔
 
+![AI Moto](https://i.ibb.co/T1hLBL1/2018-12-24-2-36-50.png "AI Moto")
+
 * 第三組
   * 分類：醫療
   * 名稱：iSight

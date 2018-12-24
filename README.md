@@ -12,7 +12,7 @@ https://github.com/iiiedu/AIEN03/
     * 地點：
         * 台北市復興南路一段390號2樓204教室(台灣企銀樓上)
     * 聯繫窗口：
-        * [Ryan Chung](mailto:ryan@iii.org.tw) 0939-659-976
+        * [Ryan Chung](mailto:ryan@iii.org.tw) (02)6631-6666 #6555、0939-659-976
         * [Nico Lai](mailto:wl9208@iii.org.tw) (02)6631-6666 #6593
 
 * 各組資訊

@@ -33,7 +33,7 @@ https://github.com/iiiedu/AIEN03/
   * 成員：鄭耀暉、
           [許素菲](https://www.cakeresume.com/sophiah)、
           [嚴振哲](https://www.cakeresume.com/a96385250)、
-          林佳蓉、
+          [林佳蓉](https://www.cakeresume.com/s--inxf2TcL0TI0Ryt3zr7jgw--/luffy?fbclid=IwAR1g5oXkGQDwvGqwweUw997-HDjxdBpwVbYDrP1QQ2Ye5LnjrCY_kh8K-fg)、
           [謝振岡](https://www.cakeresume.com/aaron-ai)
           
 ![FinTank](https://i.ibb.co/PzhqHnn/2018-12-20-2-53-24.png "FinTank")
@@ -74,7 +74,7 @@ https://github.com/iiiedu/AIEN03/
   * 成員： [胡翔](https://www.cakeresume.com/s--ztZbX8y1TCaZf742MnswZw--/shawn-hu)、
           [粘仁豪](https://www.cakeresume.com/nien81527)、
           [郭書宇](https://www.cakeresume.com/sue-k)、
-          游羽瑄、
+          [游羽瑄](https://www.cakeresume.com/s--TbgPCs7Wg5GZTxYe7c4qgA--/stephanie-yu?fbclid=IwAR0BIN8sBjFW9akjhtmC6GMoq5v0CrDLe4if2td66P7t5VhWffw9fj6RPyk)、
           [倪仲霆](https://drive.google.com/file/d/1zQuppHt2HrwACpbr_aZV1OVZ0G2S3t4U/view)
 
 ![iSight](https://i.ibb.co/NrD1xLt/2018-12-20-3-10-02.png "iSight")
